@@ -31,6 +31,7 @@ coordenadas = {
 'J': (6, 6)
 }
 ````
+![ver las ciudades en un mapa]([https://github.com/beluirina/TSP/blob/main/visual.png])
 
 Code in folders! DFS, BFS and A* (heuristic search) applied.
 
